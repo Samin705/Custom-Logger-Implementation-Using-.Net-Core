@@ -1,0 +1,41 @@
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.csproj.AssemblyReference.cache
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.GeneratedMSBuildEditorConfig.editorconfig
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.AssemblyInfoInputs.cache
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.AssemblyInfo.cs
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.csproj.CoreCompileInputs.cache
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.MvcApplicationPartsAssemblyInfo.cs
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.MvcApplicationPartsAssemblyInfo.cache
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\appsettings.Development.json
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\appsettings.json
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Log Demo Web Api.exe
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Log Demo Web Api.deps.json
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Log Demo Web Api.runtimeconfig.json
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Log Demo Web Api.runtimeconfig.dev.json
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Log Demo Web Api.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Log Demo Web Api.pdb
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\System.Web.Http.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\System.Web.Http.WebHost.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\codemen\Projects\Log Demo Web Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\scopedcss\bundle\Log Demo Web Api.styles.css
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\staticwebassets\Log Demo Web Api.StaticWebAssets.Manifest.cache
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.RazorTargetAssemblyInfo.cache
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.csproj.CopyComplete
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.dll
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\refint\Log Demo Web Api.dll
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.pdb
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\Log Demo Web Api.genruntimeconfig.cache
+H:\codemen\Projects\Log Demo Web Api\obj\Debug\net5.0\ref\Log Demo Web Api.dll
